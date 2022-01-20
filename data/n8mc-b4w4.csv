@@ -1,0 +1,1001 @@
+,case_month,res_state,state_fips_code,res_county,county_fips_code,age_group,sex,race,ethnicity,case_onset_interval,process,exposure_yn,current_status,symptom_status,hosp_yn,icu_yn,death_yn,case_positive_specimen,underlying_conditions_yn
+1,2021-01,OH,39,LAKE,39085,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+2,2021-03,PA,42,LUZERNE,42079,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+3,2020-08,FL,12,MARION,12083,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+4,2020-11,OK,40,MCCLAIN,40087,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Unknown,No,Missing,No,NA,NA
+5,2021-04,MI,26,WASHTENAW,26161,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+6,2021-11,AZ,4,YAVAPAI,4025,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+7,2020-12,VA,51,BOTETOURT,51023,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+8,2020-11,KY,21,FRANKLIN,21073,65+ years,Female,White,Non-Hispanic/Latino,NA,Other detection method (specify),Yes,Laboratory-confirmed case,Unknown,No,Missing,No,0,NA
+9,2021-08,CO,8,LARIMER,8069,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+10,2020-12,CA,6,PLACER,6061,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+11,2021-11,WI,55,DOUGLAS,55031,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+12,2021-08,FL,12,ST. JOHNS,12109,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+13,2021-01,MI,26,ALPENA,26007,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+14,2021-09,PA,42,BUCKS,42017,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+15,2021-04,FL,12,COLLIER,12021,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+16,2020-06,MS,28,HARRISON,28047,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+17,2021-08,SD,46,MINNEHAHA,46099,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+18,2020-07,MI,26,MUSKEGON,26121,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+19,2020-11,WA,53,PIERCE,53053,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+20,2020-12,MN,27,ST. LOUIS,27137,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+21,2020-12,IN,18,WABASH,18169,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+22,2020-12,OR,41,LINN,41043,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+23,2021-01,MN,27,LYON,27083,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+24,2020-09,AL,1,ST. CLAIR,1115,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+25,2021-01,NJ,34,HUNTERDON,34019,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+26,2020-11,GA,13,JONES,13169,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+27,2020-09,NC,37,SCOTLAND,37165,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0,NA
+28,2020-11,OR,41,UNION,41061,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+29,2020-12,MN,27,ANOKA,27003,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+30,2020-05,VA,51,LOUISA,51109,50 to 64 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+31,2021-02,NM,35,TAOS,35055,50 to 64 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,Missing,NA,NA
+32,2021-04,NC,37,EDGECOMBE,37065,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+33,2021-09,MD,24,CHARLES,24017,18 to 49 years,Female,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+34,2020-08,ID,16,BINGHAM,16011,50 to 64 years,Female,Unknown,NA,0,Other detection method (specify),Yes,Laboratory-confirmed case,Symptomatic,No,Missing,NA,0,NA
+35,2021-09,VA,51,SUFFOLK CITY,51800,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,NA,NA
+36,2020-06,CT,9,HARTFORD,9003,65+ years,Female,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+37,2020-06,NJ,34,MERCER,34021,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,NA,NA
+38,2021-05,MI,26,ROSCOMMON,26143,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,NA,NA,NA
+39,2021-08,OK,40,OSAGE,40113,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,Unknown,NA,NA
+40,2021-04,GA,13,HARALSON,13143,18 to 49 years,Male,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+41,2020-04,NC,37,NEW HANOVER,37129,18 to 49 years,Male,NA,NA,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+42,2020-11,NY,36,SULLIVAN,36105,18 to 49 years,Male,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+43,2021-11,OR,41,CROOK,41013,50 to 64 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+44,2021-04,RI,44,NEWPORT,44005,65+ years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+45,2021-12,MI,26,CALHOUN,26025,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+46,2020-11,NV,32,CHURCHILL,32001,18 to 49 years,Male,White,Unknown,NA,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,NA,0,NA
+47,2021-01,CA,6,EL DORADO,6017,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Probable Case,Unknown,Missing,Missing,Missing,NA,NA
+48,2021-10,NY,36,TIOGA,36107,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+49,2021-12,MN,27,DAKOTA,27037,18 to 49 years,Female,Asian,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+50,2021-01,VA,51,PRINCE EDWARD,51147,50 to 64 years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+51,2020-11,OH,39,FRANKLIN,39049,0 - 17 years,Male,Black,Non-Hispanic/Latino,NA,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+52,2021-04,FL,12,PINELLAS,12103,18 to 49 years,Male,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+53,2021-02,OK,40,BRYAN,40013,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Unknown,No,Missing,No,NA,NA
+54,2020-11,KS,20,BUTLER,20015,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Unknown,No,NA,NA
+55,2020-12,AR,5,CRAWFORD,5033,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,1,NA
+56,2021-09,VA,51,HAMPTON CITY,51650,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+57,2020-12,IN,18,HENRY,18065,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+58,2021-08,IN,18,HUNTINGTON,18069,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+59,2020-11,WI,55,IOWA,55049,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,NA,NA
+60,2021-08,IN,18,JEFFERSON,18077,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+61,2020-11,MN,27,DOUGLAS,27041,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Yes,0,Yes
+62,2021-12,IN,18,FAYETTE,18041,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Yes,Missing,NA,0,NA
+63,2021-09,PA,42,LAWRENCE,42073,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,No,No,0,Yes
+64,2021-02,MI,26,LEELANAU,26089,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+65,2021-08,GA,13,TATTNALL,13267,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,NA,NA,NA
+66,2021-08,AL,1,SHELBY,1117,Missing,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+67,2021-01,NY,36,ERIE,36029,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+68,2021-08,KY,21,BARREN,21009,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Probable Case,Symptomatic,No,Missing,No,0,NA
+69,2021-08,MO,29,CRAWFORD,29055,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,NA
+70,2020-09,OH,39,MERCER,39107,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,No,No,0,Yes
+71,2021-09,VA,51,WYTHE,51197,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+72,2020-06,AR,5,YELL,5149,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,1,NA
+73,2020-08,TX,48,HIDALGO,48215,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+74,2021-09,WI,55,ADAMS,55001,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,NA,NA
+75,2021-09,NY,36,OSWEGO,36075,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+76,2021-01,UT,49,WASHINGTON,49053,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,No,No,0,Yes
+77,2021-12,VT,50,CALEDONIA,50005,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+78,2021-03,GA,13,CHATHAM,13051,0 - 17 years,Unknown,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+79,2021-01,VA,51,DANVILLE CITY,51590,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,NA,NA
+80,2021-09,NC,37,MADISON,37115,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+81,2020-11,TN,47,RUTHERFORD,47149,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+82,2021-10,VA,51,ALBEMARLE,51003,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+83,2020-12,VA,51,BEDFORD,51019,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+84,2021-08,MD,24,CECIL,24015,0 - 17 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+85,2020-12,MD,24,PRINCE GEORGE'S,24033,0 - 17 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+86,2020-07,GA,13,CAMDEN,13039,18 to 49 years,Male,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+87,2021-08,GA,13,BIBB,13021,50 to 64 years,Female,Black,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+88,2020-12,VA,51,FRANKLIN,51067,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,NA,NA
+89,2021-01,NM,35,LEA,35025,18 to 49 years,Female,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+90,2021-11,MI,26,CLARE,26035,65+ years,Female,Unknown,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+91,2020-09,NY,36,MONROE,36055,18 to 49 years,Male,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+92,2020-11,TN,47,BEDFORD,47003,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,1,NA
+93,2020-12,IA,19,CERRO GORDO,19033,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+94,2021-08,TN,47,GIBSON,47053,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+95,2021-01,AR,5,GREENE,5055,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+96,2020-10,TN,47,CAMPBELL,47013,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,1,NA
+97,2021-10,OK,40,CANADIAN,40017,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,NA,NA
+98,2020-12,WI,55,COLUMBIA,55021,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+99,2020-09,TX,48,CORYELL,48099,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+100,2021-06,UT,49,IRON,49021,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,Unknown,0,NA
+101,2020-12,OK,40,LE FLORE,40079,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,Unknown,NA,NA
+102,2021-12,IL,17,MACOUPIN,17117,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+103,2021-12,MO,29,PLATTE,29165,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,Yes
+104,2021-08,MO,29,TANEY,29213,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+105,2020-12,TN,47,HAWKINS,47073,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+106,2020-11,MO,29,JOHNSON,29101,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+107,2020-08,KY,21,NELSON,21179,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,Missing,No,0,NA
+108,2020-08,GA,13,EFFINGHAM,13103,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+109,2020-11,IL,17,COLES,17029,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+110,2020-10,IL,17,FRANKLIN,17055,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+111,2021-09,TN,47,LAWRENCE,47099,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,0,NA
+112,2020-11,MN,27,MCLEOD,27085,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+113,2021-05,MI,26,OGEMAW,26129,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+114,2020-10,OH,39,SENECA,39147,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Probable Case,Symptomatic,No,No,No,NA,NA
+115,2021-07,MO,29,NEWTON,29145,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+116,2021-12,GA,13,SPALDING,13255,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+117,2020-10,PA,42,CUMBERLAND,42041,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,No,No,NA,NA
+118,2020-11,MO,29,HOWELL,29091,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,NA
+119,2020-09,GA,13,HABERSHAM,13137,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+120,2021-05,ME,23,OXFORD,23017,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+121,2021-07,GA,13,GORDON,13129,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+122,2021-12,NM,35,SAN MIGUEL,35047,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+123,2021-01,IN,18,SULLIVAN,18153,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+124,2021-01,MI,26,OTTAWA,26139,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+125,2021-09,MA,25,WORCESTER,25027,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+126,2020-12,GA,13,GWINNETT,13135,50 to 64 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+127,2021-09,NC,37,MARTIN,37117,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+128,2021-09,OK,40,GARVIN,40049,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,Unknown,NA,NA
+129,2021-01,CA,6,SAN JOAQUIN,6077,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+130,2021-04,NH,33,MERRIMACK,33013,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,NA,NA
+131,2020-11,IA,19,STORY,19169,50 to 64 years,Male,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+132,2021-03,NE,31,LINCOLN,31111,65+ years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+133,2021-04,MD,24,WICOMICO,24045,18 to 49 years,Female,Black,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,NA,NA,NA
+134,2021-12,NC,37,JACKSON,37099,0 - 17 years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+135,2021-09,IL,17,LAKE,17097,0 - 17 years,Female,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+136,2021-09,WI,55,SHAWANO,55115,0 - 17 years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,NA,NA
+137,2021-01,SC,45,BERKELEY,45015,65+ years,Female,White,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+138,2021-08,TN,47,MARSHALL,47117,0 - 17 years,Male,White,Missing,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+139,2021-09,MD,24,WORCESTER,24047,0 - 17 years,Male,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+140,2020-12,AL,1,BIBB,1007,18 to 49 years,Male,White,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+141,2020-12,ND,38,STARK,38089,18 to 49 years,Male,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+142,2020-11,OH,39,GUERNSEY,39059,65+ years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+143,2021-09,CA,6,SACRAMENTO,6067,18 to 49 years,Female,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+144,2020-10,CA,6,ALAMEDA,6001,50 to 64 years,Female,White,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+145,2020-07,CA,6,KERN,6029,0 - 17 years,Male,White,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+146,2021-08,CA,6,CONTRA COSTA,6013,18 to 49 years,Male,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Missing,Missing,Missing,NA,NA
+147,2021-08,CA,6,VENTURA,6111,18 to 49 years,Male,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+148,2021-01,CA,6,SAN FRANCISCO,6075,50 to 64 years,Male,White,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+149,2020-08,GA,13,CLAYTON,13063,65+ years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+150,2020-04,MA,25,BRISTOL,25005,50 to 64 years,Male,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+151,2020-09,FL,12,POLK,12105,18 to 49 years,Female,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+152,2021-01,AR,5,PULASKI,5119,18 to 49 years,Male,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0,NA
+153,2021-10,OH,39,MADISON,39097,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Routine surveillance,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+154,2020-10,IA,19,POLK,19153,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+155,2020-11,WI,55,WALWORTH,55127,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+156,2020-06,AR,5,BENTON,5007,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,Unknown,1,NA
+157,2021-12,IL,17,CHAMPAIGN,17019,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+158,2021-02,GA,13,FLOYD,13115,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+159,2021-10,OH,39,GALLIA,39053,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+160,2021-08,CA,6,HUMBOLDT,6023,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+161,2021-12,MO,29,JEFFERSON,29099,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+162,2020-11,WY,56,PARK,56029,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0,NA
+163,2021-02,NY,36,PUTNAM,36079,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+164,2020-09,IN,18,RIPLEY,18137,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+165,2020-08,OH,39,DARKE,39037,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,Yes,No,No,NA,NA
+166,2021-04,DE,10,SUSSEX,10005,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+167,2020-10,WI,55,WAUKESHA,55133,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Yes,NA,NA
+168,2021-11,IL,17,PEORIA,17143,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+169,2021-08,KY,21,CARTER,21043,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Laboratory reported,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+170,2021-02,KY,21,MARSHALL,21157,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,Missing,No,0,NA
+171,2020-12,OK,40,MUSKOGEE,40101,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,NA,NA
+172,2021-11,IL,17,TAZEWELL,17179,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Missing,No,Missing,Missing,NA,NA
+173,2020-10,MN,27,WABASHA,27157,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+174,2020-09,TN,47,MADISON,47113,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+175,2021-03,WI,55,OUTAGAMIE,55087,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,Unknown,NA,NA
+176,2020-11,MI,26,VAN BUREN,26159,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,Yes,NA,NA
+177,2021-10,TN,47,WILSON,47189,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,0,NA
+178,2020-09,GA,13,UPSON,13293,NA,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+179,2021-01,GA,13,WALKER,13295,0 - 17 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+180,2021-12,NC,37,ASHE,37009,18 to 49 years,NA,NA,NA,0,Missing,Unknown,Probable Case,Symptomatic,No,Unknown,No,0,NA
+181,2020-07,CA,6,SISKIYOU,6093,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+182,2021-09,FL,12,LEON,12073,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+183,2021-09,FL,12,PUTNAM,12107,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+184,2020-07,OR,41,WASCO,41065,50 to 64 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+185,2021-10,IN,18,CLAY,18021,65+ years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+186,2020-08,WI,55,WAUPACA,55135,65+ years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+187,2021-07,GA,13,GLYNN,13127,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+188,2021-09,TN,47,ANDERSON,47001,18 to 49 years,Female,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+189,2020-07,WA,53,BENTON,53005,18 to 49 years,Female,Missing,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+190,2021-02,GA,13,BRYAN,13029,18 to 49 years,Female,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+191,2020-12,GA,13,CRISP,13081,18 to 49 years,Female,Unknown,Missing,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+192,2021-03,MI,26,ISABELLA,26073,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,NA,NA
+193,2020-12,NY,36,DUTCHESS,36027,50 to 64 years,Female,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+194,2020-10,AL,1,MORGAN,1103,Missing,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+195,2020-10,ND,38,CASS,38017,18 to 49 years,Male,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+196,2021-09,SC,45,CHESTERFIELD,45025,18 to 49 years,Male,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+197,2021-11,OH,39,WOOD,39173,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+198,2021-01,WA,53,YAKIMA,53077,18 to 49 years,Male,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,NA,NA
+199,2020-12,TN,47,CARTER,47019,50 to 64 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+200,2021-08,ID,16,MINIDOKA,16067,50 to 64 years,Male,NA,NA,NA,Clinical evaluation,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+201,2021-01,CA,6,LOS ANGELES,6037,65+ years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+202,2021-12,TX,48,DALLAS,48113,18 to 49 years,Female,Black,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,NA,NA,NA
+203,2020-07,AL,1,MONTGOMERY,1101,18 to 49 years,Male,Black,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+204,2021-09,WY,56,ALBANY,56001,18 to 49 years,Female,White,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+205,2020-07,ND,38,BURLEIGH,38015,18 to 49 years,Male,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+206,2020-08,IN,18,OWEN,18119,18 to 49 years,Male,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+207,2021-09,PA,42,MIFFLIN,42087,50 to 64 years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+208,2020-12,NY,36,KINGS,36047,0 - 17 years,Female,White,Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+209,2021-12,NY,36,NEW YORK,36061,65+ years,Female,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,0,NA
+210,2021-11,CA,6,SAN MATEO,6081,18 to 49 years,Female,Asian,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+211,2020-04,NY,36,RICHMOND,36085,18 to 49 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Yes,Unknown,Unknown,0,NA
+212,2021-12,CA,6,SOLANO,6095,65+ years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+213,2021-04,FL,12,SEMINOLE,12117,18 to 49 years,Male,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+214,2021-09,ME,23,NA,NA,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,NA,NA
+215,2021-11,MN,27,GOODHUE,27049,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+216,2021-08,IN,18,LAWRENCE,18093,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+217,2021-07,WA,53,SNOHOMISH,53061,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,NA,NA
+218,2021-11,WA,53,SPOKANE,53063,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+219,2021-11,OH,39,VAN WERT,39161,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,0,NA
+220,2021-01,SC,45,DARLINGTON,45031,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+221,2021-10,FL,12,PASCO,12101,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+222,2020-12,NC,37,PERSON,37145,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Unknown,No,1,Yes
+223,2020-12,VA,51,ROCKINGHAM,51165,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+224,2021-11,OH,39,SUMMIT,39153,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+225,2021-01,GA,13,UNION,13291,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,NA,NA,NA
+226,2021-10,PA,42,YORK,42133,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+227,2021-01,NC,37,BURKE,37023,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,0,NA
+228,2020-12,PA,42,DAUPHIN,42043,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+229,2021-11,AZ,4,MOHAVE,4015,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+230,2021-09,AZ,4,NAVAJO,4017,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,Missing,NA,NA
+231,2021-09,FL,12,BREVARD,12009,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+232,2021-08,PA,42,GREENE,42059,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,No,No,0,Yes
+233,2020-11,MN,27,PINE,27115,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,No,No,1,Yes
+234,2020-10,VA,51,SALEM CITY,51775,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+235,2021-08,AL,1,TUSCALOOSA,1125,Missing,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+236,2021-01,OH,39,ATHENS,39009,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,NA,Yes
+237,2021-10,CO,8,BOULDER,8013,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+238,2021-11,MI,26,KALAMAZOO,26077,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+239,2021-11,OH,39,CARROLL,39019,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,No,0,NA
+240,2021-09,PA,42,ERIE,42049,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+241,2021-09,VT,50,FRANKLIN,50011,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Yes,Laboratory-confirmed case,Asymptomatic,No,Missing,No,0,NA
+242,2021-04,MN,27,NICOLLET,27103,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+243,2020-08,FL,12,SANTA ROSA,12113,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+244,2020-06,UT,49,CACHE,49005,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,NA,0,Yes
+245,2021-10,PA,42,CENTRE,42027,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+246,2021-12,PA,42,WESTMORELAND,42129,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Yes,Probable Case,Unknown,Unknown,Unknown,Unknown,NA,NA
+247,2021-01,OH,39,WYANDOT,39175,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,NA,Yes
+248,2021-04,VA,51,YORK,51199,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+249,2020-08,FL,12,BRADFORD,12007,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+250,2020-05,NY,36,ST. LAWRENCE,36089,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+251,2021-09,NC,37,BUNCOMBE,37021,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+252,2020-12,AL,1,DEKALB,1049,18 to 49 years,Female,Unknown,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+253,2020-06,NC,37,HOKE,37093,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+254,2020-11,TN,47,BRADLEY,47011,50 to 64 years,Female,Unknown,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+255,2021-03,OH,39,WASHINGTON,39167,50 to 64 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+256,2021-02,VA,51,WAYNESBORO CITY,51820,50 to 64 years,Female,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,NA,NA,NA
+257,2020-12,AL,1,COLBERT,1033,Missing,Male,Missing,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+258,2021-10,WA,53,CLARK,53011,0 - 17 years,Male,Missing,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+259,2020-12,VA,51,CULPEPER,51047,0 - 17 years,Male,Unknown,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,NA,NA
+260,2021-11,NY,36,NIAGARA,36063,0 - 17 years,Male,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+261,2021-08,NC,37,ONSLOW,37133,0 - 17 years,Male,Unknown,Unknown,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+262,2021-07,IA,19,WOODBURY,19193,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+263,2021-12,TX,48,FORT BEND,48157,65+ years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+264,2021-01,NY,36,SUFFOLK,36103,65+ years,Male,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+265,2021-11,ME,23,ANDROSCOGGIN,23001,18 to 49 years,Female,White,Unknown,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,NA,NA
+266,2021-02,CO,8,EL PASO,8041,18 to 49 years,Female,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+267,2021-05,OR,41,DESCHUTES,41017,50 to 64 years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+268,2021-01,CO,8,ADAMS,8001,65+ years,Male,Missing,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+269,2021-01,IN,18,KOSCIUSKO,18085,18 to 49 years,Male,White,Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+270,2021-09,SC,45,MARLBORO,45069,18 to 49 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,NA,NA
+271,2021-05,NC,37,WAKE,37183,18 to 49 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+272,2020-05,NY,36,WESTCHESTER,36119,50 to 64 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,No,0,NA
+273,2020-09,NC,37,WILSON,37195,50 to 64 years,Female,Black,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+274,2020-12,MO,29,AUDRAIN,29007,18 to 49 years,Male,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+275,2020-09,IA,19,BOONE,19015,0 - 17 years,Female,White,Non-Hispanic/Latino,9,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+276,2020-11,KS,20,DOUGLAS,20045,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,NA,NA
+277,2021-09,ID,16,JEFFERSON,16051,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Laboratory reported,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+278,2021-12,IN,18,MONTGOMERY,18107,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+279,2020-12,KY,21,TAYLOR,21217,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Contact tracing of case patient,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,1,NA
+280,2020-12,NV,32,WASHOE,32031,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,Yes
+281,2020-12,KY,21,GRAVES,21083,65+ years,Female,White,Non-Hispanic/Latino,NA,Multiple,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,No,0,Yes
+282,2021-01,KS,20,SHAWNEE,20177,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,NA,NA
+283,2020-09,VA,51,SMYTH,51173,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+284,2020-11,MO,29,VERNON,29217,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,Unknown,0,NA
+285,2021-08,SC,45,AIKEN,45003,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+286,2021-11,IN,18,DAVIESS,18027,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+287,2020-09,OK,40,PAYNE,40119,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,NA,NA
+288,2021-08,VA,51,ROANOKE CITY,51770,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+289,2021-02,GA,13,TOOMBS,13279,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+290,2021-03,IA,19,WASHINGTON,19183,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+291,2021-10,MI,26,LAPEER,26087,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,NA,NA,NA
+292,2021-11,VA,51,PULASKI,51155,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,NA,NA,NA
+293,2021-11,MO,29,NODAWAY,29147,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Missing,Unknown,0,NA
+294,2021-09,FL,12,WALTON,12131,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+295,2021-01,VA,51,LEE,51105,NA,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,NA,NA
+296,2021-06,IL,17,LIVINGSTON,17105,NA,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+297,2021-12,NM,35,GRANT,35017,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+298,2021-10,SC,45,UNION,45087,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+299,2021-12,KS,20,FRANKLIN,20059,65+ years,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,NA,NA
+300,2021-09,SC,45,ANDERSON,45007,0 - 17 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+301,2020-07,GA,13,BARTOW,13015,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+302,2020-06,NY,36,DELAWARE,36025,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+303,2020-11,NY,36,GENESEE,36037,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+304,2021-08,OH,39,MAHONING,39099,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+305,2021-01,MI,26,MONROE,26115,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+306,2020-07,SC,45,ORANGEBURG,45075,18 to 49 years,Female,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+307,2020-12,IL,17,CLINTON,17027,50 to 64 years,Female,Unknown,Unknown,0,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+308,2021-02,VA,51,HENRY,51089,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,NA,NA
+309,2021-02,NC,37,MECKLENBURG,37119,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+310,2020-12,VA,51,SCOTT,51169,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+311,2021-02,SC,45,CLARENDON,45027,65+ years,Female,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,NA,NA
+312,2021-04,AL,1,MARSHALL,1095,65+ years,Female,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,NA,NA,NA
+313,2021-08,VA,51,HARRISONBURG CITY,51660,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+314,2021-03,CA,6,SUTTER,6101,18 to 49 years,Male,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+315,2020-12,TN,47,HENDERSON,47077,65+ years,Male,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+316,2020-11,IL,17,LASALLE,17099,65+ years,Male,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+317,2020-12,VA,51,RICHMOND CITY,51760,65+ years,Male,Black,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+318,2021-08,VA,51,HALIFAX,51083,0 - 17 years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+319,2020-10,NC,37,GASTON,37071,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+320,2021-12,IN,18,HARRISON,18061,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+321,2020-09,KY,21,JEFFERSON,21111,18 to 49 years,Male,White,NA,0,Clinical evaluation,Missing,Probable Case,Symptomatic,Unknown,Missing,NA,0,NA
+322,2020-11,ND,38,STUTSMAN,38093,18 to 49 years,Male,White,Missing,NA,Missing,Missing,Laboratory-confirmed case,Asymptomatic,Missing,Missing,Missing,NA,NA
+323,2021-11,NY,36,SCHOHARIE,36095,65+ years,Male,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+324,2020-05,IL,17,COOK,17031,18 to 49 years,Female,Unknown,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Unknown,Unknown,NA,NA
+325,2020-11,OK,40,CARTER,40019,18 to 49 years,Female,White,Hispanic/Latino,NA,Missing,Missing,Probable Case,Unknown,No,Missing,No,NA,NA
+326,2021-03,FL,12,GADSDEN,12039,18 to 49 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+327,2021-12,HI,15,NA,NA,18 to 49 years,Male,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+328,2021-10,NV,32,LYON,32019,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Clinical evaluation,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+329,2021-12,VT,50,WASHINGTON,50023,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+330,2020-09,AR,5,CLARK,5019,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+331,2021-02,MT,30,FLATHEAD,30029,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+332,2020-11,IN,18,HOWARD,18067,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+333,2021-01,OH,39,JEFFERSON,39081,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+334,2021-11,KS,20,LYON,20111,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,NA,NA
+335,2021-08,SD,46,MEADE,46093,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+336,2021-12,OH,39,MONTGOMERY,39113,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,No,0,NA
+337,2020-07,VA,51,FAUQUIER,51061,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+338,2021-11,OH,39,HARDIN,39065,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,0,NA
+339,2021-01,KY,21,MUHLENBERG,21177,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,Yes
+340,2021-10,WI,55,VILAS,55125,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,NA,NA,NA
+341,2021-01,NY,36,BROOME,36007,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+342,2020-10,SC,45,COLLETON,45029,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,NA,NA
+343,2021-09,OH,39,KNOX,39083,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+344,2021-01,IN,18,CARROLL,18015,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+345,2021-03,NH,33,CHESHIRE,33005,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,NA,Yes
+346,2020-11,FL,12,CITRUS,12017,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+347,2021-01,KY,21,HOPKINS,21107,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+348,2021-09,KY,21,PULASKI,21199,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,Yes
+349,2021-02,VT,50,RUTLAND,50021,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,Yes
+350,2020-06,TX,48,BRAZOS,48041,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+351,2020-12,MD,24,SOMERSET,24039,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,NA,NA,NA
+352,2021-09,VT,50,WINDHAM,50025,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,No,0,Yes
+353,2020-11,SC,45,GEORGETOWN,45043,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,NA,NA,NA
+354,2021-03,IN,18,BOONE,18011,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+355,2020-11,MO,29,CAMDEN,29029,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,NA
+356,2021-10,NC,37,CASWELL,37033,18 to 49 years,NA,NA,NA,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,1,NA
+357,2020-10,NY,36,GREENE,36039,18 to 49 years,Unknown,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+358,2021-08,UT,49,SEVIER,49041,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,NA,0,NA
+359,2020-11,VA,51,WASHINGTON,51191,50 to 64 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+360,2020-11,VA,51,BUCHANAN,51027,65+ years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+361,2021-02,MA,25,HAMPSHIRE,25015,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+362,2021-01,GA,13,PEACH,13225,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+363,2021-08,TX,48,BROWN,48049,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+364,2020-11,CO,8,LOGAN,8075,18 to 49 years,Female,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+365,2021-01,SC,45,EDGEFIELD,45037,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+366,2021-10,NY,36,ESSEX,36031,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+367,2020-11,KY,21,ROWAN,21205,50 to 64 years,Female,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+368,2021-10,IA,19,CLINTON,19045,0 - 17 years,Male,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+369,2021-08,SC,45,SALUDA,45081,0 - 17 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+370,2020-12,NJ,34,ESSEX,34013,18 to 49 years,Male,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+371,2020-09,TN,47,HARDEMAN,47069,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Asymptomatic,No,Missing,Missing,0,NA
+372,2020-12,IL,17,JEFFERSON,17081,18 to 49 years,Male,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+373,2021-11,KY,21,MONTGOMERY,21173,18 to 49 years,Male,NA,NA,0,Clinical evaluation,Missing,Probable Case,Symptomatic,No,Missing,No,0,NA
+374,2021-09,GA,13,THOMAS,13275,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+375,2021-09,VA,51,LOUDOUN,51107,65+ years,Male,Unknown,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+376,2021-01,NC,37,CUMBERLAND,37051,18 to 49 years,Female,Black,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+377,2021-07,NJ,34,BERGEN,34003,18 to 49 years,Female,White,Missing,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,No,NA,NA
+378,2021-08,SD,46,CODINGTON,46029,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+379,2021-12,PA,42,SCHUYLKILL,42107,0 - 17 years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+380,2020-12,PA,42,LACKAWANNA,42069,18 to 49 years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+381,2020-11,IN,18,PORTER,18127,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+382,2021-01,IN,18,GREENE,18055,65+ years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+383,2021-01,NC,37,ROCKINGHAM,37157,65+ years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,Yes
+384,2020-10,CA,6,SAN BERNARDINO,6071,18 to 49 years,Male,Unknown,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,Missing,NA,NA
+385,2021-09,NM,35,CIBOLA,35006,0 - 17 years,Female,American Indian/Alaska Native,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+386,2021-11,VA,51,PETERSBURG CITY,51730,18 to 49 years,Male,Black,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+387,2020-08,TX,48,BRAZORIA,48039,50 to 64 years,Male,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+388,2020-12,IN,18,LAKE,18089,18 to 49 years,Female,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+389,2021-11,FL,12,ALACHUA,12001,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+390,2021-08,VA,51,AMHERST,51009,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+391,2021-01,MO,29,BARRY,29009,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,1,NA
+392,2021-01,VA,51,CAROLINE,51033,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,NA,NA
+393,2020-05,AL,1,ELMORE,1051,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+394,2021-09,IL,17,JERSEY,17083,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+395,2021-12,SC,45,LEXINGTON,45063,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+396,2021-04,TN,47,LINCOLN,47103,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,NA,0,NA
+397,2021-10,NC,37,MONTGOMERY,37123,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,Yes
+398,2020-11,SC,45,NEWBERRY,45071,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+399,2021-08,ID,16,PAYETTE,16075,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Laboratory reported,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+400,2021-03,NE,31,SCOTTS BLUFF,31157,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+401,2021-10,OH,39,MUSKINGUM,39119,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Contact tracing of case patient,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,NA,No
+402,2021-12,MN,27,RICE,27131,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+403,2020-07,SC,45,HORRY,45051,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+404,2021-01,MI,26,MENOMINEE,26109,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,NA,NA
+405,2020-10,IL,17,SHELBY,17173,65+ years,Female,White,Non-Hispanic/Latino,15,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+406,2021-08,FL,12,BAKER,12003,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+407,2021-01,VT,50,LAMOILLE,50015,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+408,2021-11,AR,5,CLEBURNE,5023,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,NA,0,NA
+409,2020-11,TN,47,GRAINGER,47057,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+410,2020-08,OK,40,LINCOLN,40081,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,NA,NA
+411,2020-12,AR,5,LONOKE,5085,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,1,NA
+412,2021-01,MO,29,RAY,29177,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,NA
+413,2021-03,KY,21,ALLEN,21003,NA,NA,NA,NA,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,0,Yes
+414,2021-11,TN,47,CARROLL,47017,NA,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+415,2020-12,TN,47,COFFEE,47031,NA,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+416,2021-03,MN,27,FILLMORE,27045,18 to 49 years,NA,NA,NA,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+417,2021-03,NE,31,DAWSON,31047,65+ years,NA,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+418,2020-11,AZ,4,YUMA,4027,0 - 17 years,Female,Missing,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+419,2021-12,IL,17,DUPAGE,17043,18 to 49 years,Female,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+420,2021-10,OR,41,MARION,41047,18 to 49 years,Female,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,NA,NA
+421,2021-09,NJ,34,OCEAN,34029,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+422,2021-03,GA,13,WHITFIELD,13313,18 to 49 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+423,2020-11,IA,19,DALLAS,19049,50 to 64 years,Female,Missing,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+424,2021-03,AL,1,JEFFERSON,1073,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+425,2021-08,KY,21,BOYLE,21021,0 - 17 years,Male,NA,NA,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,1,NA
+426,2021-12,OH,39,MEDINA,39103,0 - 17 years,Male,Unknown,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Unknown,0,NA
+427,2020-11,NJ,34,CAPE MAY,34009,18 to 49 years,Male,Unknown,Missing,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+428,2021-12,IL,17,JACKSON,17077,18 to 49 years,Male,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+429,2021-11,WI,55,JUNEAU,55057,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+430,2021-10,DE,10,NEW CASTLE,10003,18 to 49 years,Male,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+431,2020-07,CA,6,TEHAMA,6103,18 to 49 years,Male,Unknown,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+432,2021-07,WA,53,FRANKLIN,53021,50 to 64 years,Male,Missing,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+433,2021-02,GA,13,MCDUFFIE,13189,50 to 64 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+434,2020-12,IN,18,MIAMI,18103,50 to 64 years,Male,Unknown,Unknown,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+435,2020-09,MA,25,SUFFOLK,25025,50 to 64 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+436,2020-04,MN,27,BENTON,27009,18 to 49 years,Female,Black,NA,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+437,2021-09,KY,21,GREENUP,21089,18 to 49 years,Female,White,Missing,NA,Clinical evaluation,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+438,2021-12,PA,42,SUSQUEHANNA,42115,18 to 49 years,Female,White,Unknown,NA,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,Unknown,NA,NA
+439,2021-09,IL,17,BOONE,17007,50 to 64 years,Female,White,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+440,2021-05,PA,42,JEFFERSON,42065,50 to 64 years,Female,White,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,NA,0,NA
+441,2021-04,MN,27,MEEKER,27093,50 to 64 years,Female,White,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+442,2021-12,IN,18,STARKE,18149,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+443,2020-12,NY,36,BRONX,36005,18 to 49 years,Male,Missing,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,Yes
+444,2021-12,TN,47,FAYETTE,47047,0 - 17 years,Male,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,NA,0,NA
+445,2021-08,FL,12,ST. LUCIE,12111,0 - 17 years,Male,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+446,2021-01,MI,26,KENT,26081,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+447,2020-12,AR,5,WHITE,5145,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Unknown,No,0,NA
+448,2021-09,FL,12,CLAY,12019,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+449,2020-12,KY,21,GRAYSON,21085,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+450,2020-07,IA,19,JONES,19105,18 to 49 years,Female,White,Non-Hispanic/Latino,20,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+451,2021-01,NC,37,MOORE,37125,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,0,NA
+452,2020-09,NC,37,PENDER,37141,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+453,2020-08,KS,20,RILEY,20161,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,No,No,0,NA
+454,2020-11,MN,27,DODGE,27039,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+455,2021-08,MD,24,GARRETT,24023,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+456,2021-11,MO,29,SALINE,29195,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,Unknown,0,NA
+457,2020-11,AR,5,CRAIGHEAD,5031,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Yes,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,0,Yes
+458,2021-08,AL,1,WALKER,1127,Missing,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+459,2021-11,WA,53,ASOTIN,53003,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,1,NA
+460,2021-07,MO,29,MILLER,29131,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+461,2021-09,IN,18,SCOTT,18143,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+462,2021-09,NC,37,BEAUFORT,37013,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+463,2020-11,KY,21,CALLOWAY,21035,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,1,NA
+464,2021-04,VA,51,CARROLL,51035,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+465,2021-09,KY,21,OHIO,21183,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+466,2021-01,KS,20,POTTAWATOMIE,20149,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,NA,NA
+467,2021-12,VA,51,RUSSELL,51167,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,Unknown,NA,NA
+468,2021-05,MO,29,STONE,29209,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,NA
+469,2021-09,FL,12,WAKULLA,12129,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+470,2021-08,IN,18,DEKALB,18033,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+471,2020-12,NE,31,HALL,31079,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+472,2021-07,MO,29,HENRY,29083,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+473,2020-12,MT,30,SILVER BOW,30093,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,NA,NA
+474,2021-11,OH,39,MARION,39101,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+475,2020-12,TN,47,MCNAIRY,47109,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+476,2020-08,NY,36,WARREN,36113,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+477,2021-10,TN,47,DEKALB,47041,0 - 17 years,NA,NA,NA,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,0,NA
+478,2021-09,PA,42,ELK,42047,0 - 17 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,NA,0,NA
+479,2020-11,WI,55,TREMPEALEAU,55121,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+480,2021-06,MD,24,NA,NA,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+481,2021-01,MN,27,MILLE LACS,27095,65+ years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+482,2021-08,PA,42,FRANKLIN,42055,0 - 17 years,Female,Unknown,Unknown,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+483,2020-10,CA,6,RIVERSIDE,6065,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,Missing,NA,NA
+484,2020-06,GA,13,DECATUR,13087,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+485,2021-12,OR,41,YAMHILL,41071,18 to 49 years,Female,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,NA,NA
+486,2020-12,IL,17,LEE,17103,50 to 64 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+487,2020-10,GA,13,WASHINGTON,13303,50 to 64 years,Female,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+488,2021-02,SC,45,ABBEVILLE,45001,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+489,2021-08,TN,47,HICKMAN,47081,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+490,2020-11,CO,8,DENVER,8031,18 to 49 years,Male,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+491,2021-04,CA,6,MADERA,6039,18 to 49 years,Male,Unknown,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+492,2020-11,GA,13,MADISON,13195,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+493,2020-10,WI,55,BROWN,55009,50 to 64 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,NA,NA
+494,2021-01,GA,13,WORTH,13321,50 to 64 years,Male,Unknown,Missing,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+495,2020-12,SC,45,MARION,45067,65+ years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,NA,NA,NA
+496,2020-10,IA,19,LINN,19113,50 to 64 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+497,2021-09,IL,17,JO DAVIESS,17085,65+ years,Male,White,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+498,2021-05,PA,42,PHILADELPHIA,42101,0 - 17 years,Male,Unknown,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+499,2021-03,NY,36,QUEENS,36081,18 to 49 years,Male,Unknown,Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Yes,Unknown,Missing,0,Yes
+500,2020-10,WI,55,OCONTO,55083,50 to 64 years,Male,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,NA,NA,NA
+501,2020-08,FL,12,TAYLOR,12123,18 to 49 years,Male,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+502,2021-02,SC,45,DILLON,45033,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+503,2021-11,NC,37,HARNETT,37085,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,1,NA
+504,2021-09,MI,26,MARQUETTE,26103,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+505,2021-11,UT,49,WASATCH,49051,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,Unknown,0,NA
+506,2020-11,IA,19,WEBSTER,19187,0 - 17 years,Female,White,Non-Hispanic/Latino,33,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+507,2021-09,AZ,4,COCONINO,4005,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+508,2021-07,OR,41,COLUMBIA,41009,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+509,2021-11,MD,24,DORCHESTER,24019,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+510,2021-08,TN,47,HENRY,47079,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+511,2021-07,FL,12,SARASOTA,12115,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+512,2021-10,IN,18,FRANKLIN,18047,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+513,2021-12,IL,17,MARION,17121,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+514,2021-06,MO,29,WEBSTER,29225,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,1,NA
+515,2021-09,MN,27,MORRISON,27097,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+516,2021-01,MO,29,POLK,29167,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,1,NA
+517,2021-09,WI,55,POLK,55095,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Unknown,NA,NA
+518,2021-10,AL,1,WINSTON,1133,Missing,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,NA,NA
+519,2021-07,IN,18,KNOX,18083,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+520,2020-12,AR,5,MISSISSIPPI,5093,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+521,2020-10,IL,17,CHRISTIAN,17021,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+522,2020-12,AR,5,HOT SPRING,5059,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,Unknown,0,Yes
+523,2020-09,WI,55,JACKSON,55053,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+524,2021-07,OK,40,MAYES,40097,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,Unknown,NA,NA
+525,2020-07,NC,37,RUTHERFORD,37161,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+526,2021-08,IA,19,DES MOINES,19057,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+527,2020-08,OK,40,WASHINGTON,40147,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,NA,NA,NA
+528,2021-11,NE,31,CASS,31025,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+529,2021-11,MI,26,OCEANA,26127,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+530,2020-06,MO,29,MCDONALD,29119,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+531,2021-12,AK,2,FAIRBANKS NORTH STAR,2090,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+532,2021-10,OR,41,MALHEUR,41045,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,NA,NA
+533,2020-11,CT,9,TOLLAND,9013,18 to 49 years,Female,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+534,2021-11,OH,39,TRUMBULL,39155,18 to 49 years,Female,Unknown,Unknown,0,Unknown,Unknown,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,No,0,NA
+535,2021-11,IL,17,VERMILION,17183,50 to 64 years,Female,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+536,2021-04,TN,47,WASHINGTON,47179,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,Missing,0,NA
+537,2021-12,GA,13,DAWSON,13085,18 to 49 years,Male,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+538,2021-06,VA,51,JAMES CITY,51095,18 to 49 years,Male,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,NA,NA,NA
+539,2021-12,WA,53,KING,53033,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Unknown,Missing,0,NA
+540,2021-12,AR,5,CRITTENDEN,5035,18 to 49 years,Unknown,Black,Unknown,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,NA,0,NA
+541,2020-08,IL,17,OGLE,17141,18 to 49 years,Female,White,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,No,No,Unknown,NA,NA
+542,2021-08,MO,29,STODDARD,29207,18 to 49 years,Female,White,Unknown,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,Unknown,0,NA
+543,2020-10,ND,38,GRAND FORKS,38035,18 to 49 years,Male,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+544,2020-08,FL,12,JACKSON,12063,65+ years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+545,2021-04,ME,23,CUMBERLAND,23005,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+546,2021-12,OH,39,HOCKING,39073,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,NA
+547,2020-12,NV,32,ELKO,32007,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+548,2021-08,IN,18,MORGAN,18109,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+549,2021-01,OR,41,UMATILLA,41059,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+550,2020-12,KY,21,WAYNE,21231,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Probable Case,Symptomatic,No,Missing,No,1,NA
+551,2021-01,AR,5,POPE,5115,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Asymptomatic,No,Unknown,No,0,Yes
+552,2020-11,MD,24,CAROLINE,24011,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,No,NA,NA
+553,2021-06,CT,9,LITCHFIELD,9005,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+554,2021-11,VA,51,MECKLENBURG,51117,NA,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,NA,NA,NA
+555,2021-04,TN,47,GILES,47055,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,NA,0,NA
+556,2021-01,AZ,4,NA,NA,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+557,2020-08,SC,45,BARNWELL,45011,65+ years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+558,2021-06,PA,42,NORTHUMBERLAND,42097,65+ years,NA,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,NA,0,Yes
+559,2021-10,OH,39,LICKING,39089,0 - 17 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+560,2021-09,MD,24,ST. MARY'S,24037,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+561,2020-12,GA,13,HART,13147,18 to 49 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+562,2020-11,IL,17,MONROE,17133,18 to 49 years,Female,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+563,2020-07,NC,37,SAMPSON,37163,18 to 49 years,Female,NA,NA,0,Missing,Unknown,Probable Case,Symptomatic,No,Unknown,No,1,NA
+564,2021-07,AL,1,CHAMBERS,1017,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+565,2021-10,TN,47,SEVIER,47155,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+566,2020-11,IA,19,CARROLL,19027,65+ years,Female,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+567,2021-04,CO,8,CHAFFEE,8015,0 - 17 years,Male,Missing,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+568,2020-10,KY,21,BELL,21013,18 to 49 years,Male,Unknown,Unknown,NA,Routine surveillance,Yes,Laboratory-confirmed case,Asymptomatic,No,Missing,No,0,NA
+569,2021-05,MO,29,BOONE,29019,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+570,2020-12,GA,13,GRADY,13131,18 to 49 years,Male,Unknown,Missing,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+571,2020-06,IL,17,KENDALL,17093,18 to 49 years,Male,NA,NA,0,Missing,Yes,Laboratory-confirmed case,Missing,No,No,Unknown,NA,NA
+572,2021-01,OR,41,JEFFERSON,41031,50 to 64 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,NA,NA
+573,2021-07,MO,29,TEXAS,29215,50 to 64 years,Male,Unknown,Unknown,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Missing,Unknown,1,NA
+574,2021-02,GA,13,DOUGLAS,13097,0 - 17 years,Male,Black,Missing,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+575,2021-01,PA,42,BEDFORD,42009,18 to 49 years,Male,White,Unknown,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+576,2021-11,NV,32,CLARK,32003,18 to 49 years,Female,Unknown,Hispanic/Latino,0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,No,No,Missing,0,Yes
+577,2020-12,CO,8,MESA,8077,18 to 49 years,Male,Missing,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+578,2020-11,PA,42,MONROE,42089,50 to 64 years,Male,White,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+579,2021-04,AK,2,MATANUSKA-SUSITNA,2170,18 to 49 years,Male,American Indian/Alaska Native,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+580,2020-09,AR,5,COLUMBIA,5027,18 to 49 years,Female,Black,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,Yes
+581,2020-09,MD,24,BALTIMORE CITY,24510,65+ years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,No,NA,NA
+582,2021-09,OH,39,PIKE,39131,18 to 49 years,Female,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+583,2020-12,PA,42,BLAIR,42013,18 to 49 years,Male,Multiple/Other,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+584,2021-04,MI,26,INGHAM,26065,18 to 49 years,Male,Multiple/Other,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+585,2021-09,MI,26,BERRIEN,26021,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+586,2021-09,OH,39,MIAMI,39109,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Unknown,0,NA
+587,2021-12,TX,48,BEXAR,48029,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,Missing,NA,NA
+588,2021-08,KY,21,BOYD,21019,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Provider reported,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+589,2021-08,NC,37,CABARRUS,37025,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+590,2020-10,VA,51,CAMPBELL,51031,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+591,2021-02,MD,24,CARROLL,24013,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+592,2021-07,FL,12,ESCAMBIA,12033,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+593,2020-12,IN,18,HAMILTON,18057,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+594,2021-06,MI,26,JACKSON,26075,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+595,2021-08,SD,46,LINCOLN,46083,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+596,2021-09,PA,42,MERCER,42085,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+597,2020-12,NH,33,ROCKINGHAM,33015,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,NA,NA
+598,2021-10,OH,39,TUSCARAWAS,39157,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+599,2020-11,CA,6,NEVADA,6057,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,Missing,NA,NA
+600,2021-02,NY,36,ORANGE,36071,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+601,2021-11,WI,55,VERNON,55123,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+602,2021-01,MD,24,WASHINGTON,24043,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+603,2021-03,MI,26,LENAWEE,26091,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+604,2020-11,KS,20,SALINE,20169,65+ years,Female,White,Non-Hispanic/Latino,0,Multiple,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1,Yes
+605,2021-02,MI,26,SANILAC,26151,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+606,2021-09,ME,23,WALDO,23027,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+607,2021-11,IN,18,WELLS,18179,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+608,2021-11,ME,23,YORK,23031,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+609,2021-01,PA,42,CARBON,42025,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+610,2021-08,WI,55,CHIPPEWA,55017,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+611,2020-10,TN,47,CHEATHAM,47021,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+612,2021-04,ME,23,SOMERSET,23025,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+613,2020-11,IN,18,WHITLEY,18183,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+614,2021-11,VT,50,CHITTENDEN,50007,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,Missing,0,NA
+615,2021-10,MI,26,EATON,26045,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,Unknown,NA,NA
+616,2020-06,TX,48,ANDERSON,48001,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+617,2021-05,WI,55,WOOD,55141,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+618,2021-09,NV,32,NYE,32023,0 - 17 years,NA,NA,NA,NA,Routine surveillance,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,0,NA
+619,2020-10,OR,41,CLATSOP,41007,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+620,2020-06,GA,13,FANNIN,13111,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+621,2020-09,GA,13,GILMER,13123,50 to 64 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+622,2020-10,MD,24,QUEEN ANNE'S,24035,50 to 64 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+623,2020-07,GA,13,WHITE,13311,65+ years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+624,2020-11,AK,2,ANCHORAGE,2020,0 - 17 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+625,2021-01,VA,51,CHARLOTTESVILLE CITY,51540,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+626,2021-09,GA,13,NEWTON,13217,0 - 17 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+627,2021-04,MA,25,HAMPDEN,25013,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+628,2020-09,ID,16,JEROME,16053,50 to 64 years,Female,NA,NA,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,1,Yes
+629,2021-08,OR,41,LANE,41039,50 to 64 years,Female,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,NA,NA
+630,2020-09,AL,1,CALHOUN,1015,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+631,2020-11,CT,9,NEW HAVEN,9009,0 - 17 years,Male,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+632,2020-11,ID,16,BONNER,16017,18 to 49 years,Male,Missing,Missing,NA,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,0,NA
+633,2020-11,PA,42,MCKEAN,42083,18 to 49 years,Male,Unknown,Unknown,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,0,NA
+634,2021-10,KY,21,MERCER,21167,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+635,2021-05,OH,39,DELAWARE,39041,65+ years,Male,NA,NA,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,No,NA,1,Yes
+636,2021-12,TN,47,DAVIDSON,47037,18 to 49 years,Male,White,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+637,2021-01,WA,53,OKANOGAN,53047,18 to 49 years,Female,White,Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+638,2021-01,GA,13,CARROLL,13045,18 to 49 years,Female,Missing,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+639,2020-11,WA,53,COWLITZ,53015,18 to 49 years,Male,Unknown,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+640,2021-07,OK,40,TULSA,40143,18 to 49 years,Male,American Indian/Alaska Native,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,NA,NA
+641,2020-03,LA,22,ORLEANS,22071,65+ years,Female,Black,Non-Hispanic/Latino,0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,Yes,Yes,Yes,0,Yes
+642,2021-07,AL,1,COVINGTON,1039,Missing,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+643,2021-11,MN,27,CARVER,27019,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+644,2021-09,NY,36,WASHINGTON,36115,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+645,2021-03,NY,36,FULTON,36035,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+646,2021-01,PA,42,WARREN,42123,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+647,2020-10,WI,55,WAUSHARA,55137,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+648,2021-09,KS,20,LEAVENWORTH,20103,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Laboratory reported,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,NA
+649,2020-08,TN,47,HARDIN,47071,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0,Yes
+650,2020-10,OH,39,CLARK,39023,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Multiple,Yes,Probable Case,Symptomatic,No,No,No,NA,NA
+651,2021-01,OH,39,COSHOCTON,39031,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,Yes
+652,2021-09,NC,37,DUPLIN,37061,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Unknown,Probable Case,Unknown,Unknown,Unknown,No,0,NA
+653,2020-12,NC,37,GREENE,37079,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,1,NA
+654,2021-09,KY,21,PERRY,21193,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+655,2021-07,IN,18,JOHNSON,18081,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+656,2021-03,MN,27,STEELE,27147,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+657,2021-08,NC,37,BLADEN,37017,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,Yes
+658,2021-11,NY,36,ONEIDA,36065,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+659,2020-10,IA,19,WARREN,19181,65+ years,Male,White,Non-Hispanic/Latino,0,Routine surveillance,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1,NA
+660,2020-11,IL,17,KNOX,17095,NA,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+661,2020-06,NJ,34,MIDDLESEX,34023,18 to 49 years,Unknown,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+662,2021-10,CO,8,ROUTT,8107,50 to 64 years,NA,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,NA,NA
+663,2021-04,SC,45,FLORENCE,45041,65+ years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+664,2021-01,WA,53,STEVENS,53065,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,1,NA
+665,2020-12,PA,42,CRAWFORD,42039,18 to 49 years,Female,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+666,2021-09,GA,13,DEKALB,13089,18 to 49 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+667,2021-06,OR,41,DOUGLAS,41019,18 to 49 years,Female,Unknown,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+668,2021-09,TN,47,FRANKLIN,47051,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Unknown,No,Missing,Missing,0,NA
+669,2021-08,GA,13,FULTON,13121,18 to 49 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+670,2020-12,IA,19,MAHASKA,19123,18 to 49 years,Female,Unknown,Unknown,37,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+671,2020-07,GA,13,DODGE,13091,65+ years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+672,2021-09,NC,37,CALDWELL,37027,0 - 17 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+673,2021-11,CA,6,KINGS,6031,0 - 17 years,Male,Unknown,NA,NA,Missing,Missing,Probable Case,Unknown,Missing,Missing,Missing,NA,NA
+674,2021-08,IN,18,LAGRANGE,18087,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+675,2021-11,CA,6,MERCED,6047,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+676,2021-10,VA,51,NEWPORT NEWS CITY,51700,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+677,2021-10,ID,16,BANNOCK,16005,18 to 49 years,Male,Missing,Missing,NA,Missing,Missing,Probable Case,Unknown,Unknown,Missing,Unknown,0,NA
+678,2021-10,PA,42,INDIANA,42063,18 to 49 years,Male,Unknown,Unknown,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+679,2021-07,NJ,34,MONMOUTH,34025,18 to 49 years,Male,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+680,2020-09,IL,17,MORGAN,17137,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+681,2021-08,TN,47,MORGAN,47129,18 to 49 years,Male,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+682,2020-06,NC,37,YADKIN,37197,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,1,NA
+683,2021-03,NY,36,SCHENECTADY,36093,65+ years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+684,2021-10,MO,29,BUTLER,29023,18 to 49 years,Female,White,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,1,NA
+685,2021-12,ID,16,ELMORE,16039,0 - 17 years,Male,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+686,2021-08,KS,20,COWLEY,20035,18 to 49 years,Male,White,Unknown,0,Laboratory reported,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,NA
+687,2020-04,WI,55,ROCK,55105,18 to 49 years,Female,White,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,NA,NA,NA
+688,2021-08,GA,13,PAULDING,13223,18 to 49 years,Male,White,Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+689,2021-12,WI,55,SHEBOYGAN,55117,18 to 49 years,Female,Asian,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,NA,NA
+690,2020-11,SC,45,SPARTANBURG,45083,18 to 49 years,Unknown,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+691,2021-02,VA,51,NORFOLK CITY,51710,0 - 17 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+692,2021-08,KY,21,CHRISTIAN,21047,18 to 49 years,Male,Black,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,No,0,NA
+693,2021-08,GA,13,LOWNDES,13185,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+694,2021-04,NH,33,BELKNAP,33001,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,NA,NA
+695,2021-12,MO,29,CHRISTIAN,29043,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+696,2021-08,AR,5,FAULKNER,5045,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,Unknown,0,NA
+697,2021-01,VA,51,FREDERICK,51069,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+698,2021-03,MI,26,OSCEOLA,26133,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Unknown,NA,NA
+699,2020-08,VA,51,PITTSYLVANIA,51143,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+700,2021-04,TN,47,ROBERTSON,47147,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+701,2021-08,NM,35,SANTA FE,35049,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+702,2020-10,TN,47,TIPTON,47167,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+703,2021-09,OH,39,WAYNE,39169,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,Yes
+704,2020-11,MI,26,WEXFORD,26165,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+705,2020-11,MO,29,FRANKLIN,29071,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+706,2021-11,CA,6,LAKE,6033,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+707,2021-01,MO,29,BUCHANAN,29021,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Unknown,Missing,Unknown,1,NA
+708,2021-10,MN,27,CHISAGO,27025,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+709,2020-09,MO,29,COLE,29051,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,1,NA
+710,2021-08,NY,36,ONONDAGA,36067,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+711,2021-01,VA,51,STAFFORD,51179,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+712,2020-08,IA,19,BLACK HAWK,19013,0 - 17 years,Male,White,Non-Hispanic/Latino,1,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,Missing,NA,NA
+713,2020-07,MO,29,CASS,29037,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+714,2021-07,AR,5,GARLAND,5051,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,Unknown,0,NA
+715,2021-01,NJ,34,SALEM,34033,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+716,2020-10,WI,55,ST. CROIX,55109,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Unknown,NA,NA
+717,2021-11,UT,49,TOOELE,49045,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,0,NA
+718,2020-12,AR,5,BOONE,5009,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,No,0,Yes
+719,2021-01,OK,40,CHEROKEE,40021,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,NA,NA
+720,2021-01,TN,47,GREENE,47059,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+721,2020-12,MI,26,IOSCO,26069,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+722,2021-08,GA,13,WALTON,13297,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+723,2020-12,WI,55,LA CROSSE,55063,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Unknown,NA,NA
+724,2021-08,TN,47,ROANE,47145,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+725,2021-08,GA,13,FAYETTE,13113,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+726,2020-11,NY,36,LEWIS,36049,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+727,2021-02,TN,47,SCOTT,47151,NA,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+728,2021-05,VA,51,TAZEWELL,51185,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+729,2021-09,NY,36,LIVINGSTON,36051,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+730,2021-02,NY,36,NASSAU,36059,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+731,2021-05,VA,51,PRINCE GEORGE,51149,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+732,2020-06,AL,1,TALLAPOOSA,1123,50 to 64 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+733,2020-04,CA,6,IMPERIAL,6025,0 - 17 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+734,2020-11,NM,35,VALENCIA,35061,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+735,2020-09,GA,13,BALDWIN,13009,18 to 49 years,Male,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+736,2021-10,OK,40,LOGAN,40083,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,NA,NA,NA
+737,2021-04,MI,26,MANISTEE,26101,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+738,2020-05,MD,24,MONTGOMERY,24031,18 to 49 years,Male,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+739,2020-12,IL,17,FULTON,17057,50 to 64 years,Male,Missing,Missing,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+740,2021-08,IN,18,MADISON,18095,50 to 64 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+741,2020-12,NC,37,ROBESON,37155,50 to 64 years,Female,Black,Unknown,0,Missing,Unknown,Probable Case,Symptomatic,No,Unknown,No,0,Yes
+742,2020-09,OK,40,BECKHAM,40009,50 to 64 years,Male,Black,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,NA,NA,NA
+743,2021-03,FL,12,HENDRY,12051,0 - 17 years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+744,2021-09,MD,24,HOWARD,24027,18 to 49 years,Female,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+745,2021-03,IN,18,MARSHALL,18099,18 to 49 years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+746,2021-01,VA,51,ORANGE,51137,50 to 64 years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,NA,NA,NA
+747,2021-01,NY,36,RENSSELAER,36083,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+748,2021-01,FL,12,OKEECHOBEE,12093,18 to 49 years,Male,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+749,2020-07,AZ,4,SANTA CRUZ,4023,65+ years,Male,White,Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+750,2021-09,MT,30,LAKE,30047,0 - 17 years,Female,American Indian/Alaska Native,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+751,2021-08,MD,24,BALTIMORE,24005,50 to 64 years,Male,Asian,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,NA,NA,NA
+752,2020-07,FL,12,OKALOOSA,12091,18 to 49 years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+753,2020-12,NC,37,ALAMANCE,37001,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,Yes
+754,2020-10,MI,26,ANTRIM,26009,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+755,2020-07,IA,19,BENTON,19011,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+756,2021-08,OH,39,CHAMPAIGN,39021,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+757,2020-10,IN,18,DUBOIS,18037,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+758,2021-10,AL,1,GENEVA,1061,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,NA,NA
+759,2020-12,MI,26,HURON,26063,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+760,2021-10,SD,46,LAWRENCE,46081,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+761,2021-10,IN,18,DEARBORN,18029,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+762,2021-11,CO,8,DELTA,8029,65+ years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+763,2021-11,NC,37,NASH,37127,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+764,2021-07,CA,6,AMADOR,6005,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,Missing,NA,NA
+765,2020-11,SD,46,BROOKINGS,46011,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+766,2020-10,NE,31,BUFFALO,31019,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+767,2021-07,UT,49,CARBON,49007,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,Unknown,0,NA
+768,2021-10,WA,53,CLALLAM,53009,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+769,2021-11,MI,26,GRATIOT,26057,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+770,2021-10,WY,56,SWEETWATER,56037,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,No,No,0,NA
+771,2021-01,WY,56,TETON,56039,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,NA
+772,2021-11,MN,27,WRIGHT,27171,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,No,0,NA
+773,2020-06,OK,40,CLEVELAND,40027,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,NA,NA
+774,2020-11,MI,26,EMMET,26047,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+775,2020-10,MN,27,KANDIYOHI,27067,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+776,2020-10,IA,19,MARSHALL,19127,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,NA,Yes
+777,2021-02,NE,31,WASHINGTON,31177,NA,NA,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+778,2020-10,GA,13,FRANKLIN,13119,0 - 17 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+779,2021-01,WI,55,JEFFERSON,55055,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,NA,NA,NA
+780,2021-01,OH,39,FAIRFIELD,39045,18 to 49 years,Unknown,Unknown,Unknown,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Unknown,NA,NA
+781,2020-12,OR,41,LINCOLN,41041,65+ years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+782,2021-08,VA,51,ARLINGTON,51013,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+783,2021-08,TN,47,MARION,47115,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,0,NA
+784,2021-11,WA,53,CHELAN,53007,18 to 49 years,Female,Missing,Unknown,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,Missing,NA,NA
+785,2020-11,IA,19,DUBUQUE,19061,18 to 49 years,Female,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+786,2021-01,NH,33,SULLIVAN,33019,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,NA,NA
+787,2021-01,IL,17,KANE,17089,0 - 17 years,Male,Missing,NA,0,Missing,Missing,Probable Case,Missing,No,Missing,Missing,NA,NA
+788,2021-03,MI,26,CHEBOYGAN,26031,18 to 49 years,Male,Unknown,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+789,2020-06,SC,45,LAURENS,45059,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Missing,NA,NA
+790,2021-11,GA,13,SUMTER,13261,50 to 64 years,Male,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+791,2021-11,NC,37,DAVIDSON,37057,0 - 17 years,Female,Black,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+792,2020-07,CA,6,MARIN,6041,65+ years,Female,Multiple/Other,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,NA,NA,NA
+793,2021-10,MT,30,GALLATIN,30031,18 to 49 years,Female,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+794,2021-12,NY,36,TOMPKINS,36109,18 to 49 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+795,2021-10,ND,38,WARD,38101,18 to 49 years,Female,White,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+796,2021-01,KY,21,WARREN,21227,50 to 64 years,Female,White,NA,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+797,2021-07,IL,17,ADAMS,17001,0 - 17 years,Male,White,Unknown,0,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+798,2020-12,OR,41,CURRY,41015,18 to 49 years,Male,White,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+799,2020-12,NC,37,CATAWBA,37035,0 - 17 years,Female,Unknown,Hispanic/Latino,NA,Missing,Unknown,Laboratory-confirmed case,Asymptomatic,No,Unknown,No,0,NA
+800,2021-03,MA,25,NORFOLK,25021,0 - 17 years,Male,Asian,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,NA,NA,NA
+801,2021-11,WI,55,GRANT,55043,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,NA,NA
+802,2021-10,MN,27,LE SUEUR,27079,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+803,2021-12,IL,17,LOGAN,17107,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+804,2021-07,OK,40,ADAIR,40001,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,NA,NA,NA
+805,2020-11,CO,8,ELBERT,8039,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+806,2020-08,OR,41,HOOD RIVER,41027,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+807,2021-01,AR,5,JOHNSON,5071,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,Unknown,0,NA
+808,2020-07,IA,19,MARION,19125,18 to 49 years,Female,White,Non-Hispanic/Latino,14,Contact tracing of case patient,Yes,Laboratory-confirmed case,Symptomatic,No,No,Missing,0,NA
+809,2021-12,OH,39,PREBLE,39135,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+810,2021-08,IL,17,SALINE,17165,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+811,2021-07,UT,49,SANPETE,49039,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,NA,1,NA
+812,2020-11,NC,37,WATAUGA,37189,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+813,2020-12,TN,47,CLAIBORNE,47025,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,0,NA
+814,2021-10,VA,51,DINWIDDIE,51053,0 - 17 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,NA,NA,NA
+815,2020-08,IA,19,SIOUX,19167,0 - 17 years,Male,White,Non-Hispanic/Latino,27,Missing,Missing,Probable Case,Symptomatic,Missing,Missing,Missing,NA,NA
+816,2020-10,VA,51,CHESAPEAKE CITY,51550,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+817,2021-02,MI,26,CLINTON,26037,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+818,2020-09,IA,19,JASPER,19099,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+819,2020-12,TN,47,MACON,47111,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+820,2020-11,MN,27,NOBLES,27105,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+821,2020-12,MN,27,WASHINGTON,27163,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,1,Yes
+822,2021-08,VA,51,WISE,51195,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+823,2021-09,NC,37,MACON,37113,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+824,2021-07,OK,40,OTTAWA,40115,65+ years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,NA,NA,NA
+825,2021-01,MI,26,ST. JOSEPH,26149,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+826,2020-10,ID,16,LATAH,16057,NA,NA,NA,NA,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,Yes
+827,2021-11,MN,27,MOWER,27099,0 - 17 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+828,2021-10,FL,12,DESOTO,12027,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+829,2020-11,IN,18,JACKSON,18071,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+830,2020-11,MI,26,NEWAYGO,26123,18 to 49 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+831,2021-11,OH,39,FAYETTE,39047,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+832,2021-03,KS,20,MCPHERSON,20113,50 to 64 years,NA,NA,NA,0,Laboratory reported,Yes,Probable Case,Symptomatic,No,No,No,NA,NA
+833,2021-08,OH,39,ASHLAND,39005,65+ years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+834,2021-03,VA,51,ROCKBRIDGE,51163,65+ years,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,NA,NA,NA
+835,2021-10,OH,39,ROSS,39141,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,0,NA
+836,2021-09,OK,40,WAGONER,40145,0 - 17 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,Unknown,NA,NA
+837,2020-08,NM,35,CHAVES,35005,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+838,2020-11,IL,17,FAYETTE,17051,18 to 49 years,Female,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+839,2021-01,FL,12,HILLSBOROUGH,12057,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+840,2021-01,GA,13,HOUSTON,13153,18 to 49 years,Female,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+841,2021-04,WA,53,MASON,53045,18 to 49 years,Female,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+842,2020-12,GA,13,MITCHELL,13205,18 to 49 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+843,2021-08,MO,29,LAFAYETTE,29107,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+844,2020-12,CA,6,BUTTE,6007,0 - 17 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,Missing,NA,NA
+845,2020-12,VA,51,ALEXANDRIA CITY,51510,18 to 49 years,Male,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+846,2021-03,UT,49,SUMMIT,49043,18 to 49 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,0,NA
+847,2021-12,NC,37,TRANSYLVANIA,37175,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+848,2020-12,AL,1,DALE,1045,50 to 64 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,NA,NA,NA
+849,2021-09,NC,37,RICHMOND,37153,50 to 64 years,Male,NA,NA,0,Missing,Unknown,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0,NA
+850,2020-11,OK,40,KAY,40071,0 - 17 years,Male,American Indian/Alaska Native,NA,NA,Missing,Missing,Probable Case,Unknown,No,Missing,No,NA,NA
+851,2020-11,PA,42,JUNIATA,42067,18 to 49 years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+852,2021-11,PA,42,VENANGO,42121,50 to 64 years,Male,White,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+853,2021-08,NM,35,EDDY,35015,0 - 17 years,Female,Missing,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+854,2020-09,IA,19,WAPELLO,19179,18 to 49 years,Female,White,Hispanic/Latino,0,Routine surveillance,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,Yes
+855,2020-11,CO,8,WELD,8123,18 to 49 years,Female,Missing,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+856,2020-12,OK,40,OKLAHOMA,40109,50 to 64 years,Male,Asian,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Missing,No,NA,NA
+857,2020-04,NJ,34,SOMERSET,34035,50 to 64 years,Female,Black,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+858,2021-08,KS,20,MONTGOMERY,20125,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,NA,NA
+859,2021-09,TN,47,DYER,47045,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,0,NA
+860,2021-12,VA,51,FLUVANNA,51065,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,Missing,NA,NA
+861,2020-12,WI,55,KEWAUNEE,55061,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,NA,NA
+862,2020-06,FL,12,MARTIN,12085,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+863,2021-11,IN,18,SHELBY,18145,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+864,2021-12,OH,39,ERIE,39043,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,No,No,1,NA
+865,2020-12,KY,21,HENDERSON,21101,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,NA,Yes
+866,2020-12,KY,21,LETCHER,21133,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Unknown,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+867,2021-12,NC,37,WILKES,37193,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Yes,Probable Case,Symptomatic,No,Unknown,No,0,NA
+868,2020-12,IN,18,BARTHOLOMEW,18005,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+869,2021-01,SC,45,BEAUFORT,45013,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+870,2021-01,NY,36,FRANKLIN,36033,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+871,2021-01,NC,37,ALEXANDER,37003,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+872,2021-12,ME,23,LINCOLN,23015,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+873,2020-10,UT,49,UINTAH,49047,50 to 64 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0,Yes
+874,2021-04,NC,37,POLK,37149,NA,NA,NA,NA,NA,Missing,Unknown,Probable Case,Symptomatic,No,Unknown,No,0,NA
+875,2020-10,IA,19,NA,NA,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Probable Case,Missing,Unknown,Missing,Missing,NA,NA
+876,2020-12,KS,20,MIAMI,20121,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+877,2020-09,MO,29,MORGAN,29141,18 to 49 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,Unknown,0,NA
+878,2021-04,VA,51,ACCOMACK,51001,50 to 64 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+879,2021-04,WA,53,WHITMAN,53075,65+ years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+880,2020-07,AL,1,CULLMAN,1043,Missing,Female,Unknown,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+881,2021-09,VA,51,FREDERICKSBURG CITY,51630,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+882,2021-05,PA,42,WYOMING,42131,0 - 17 years,Female,NA,NA,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,NA,1,NA
+883,2021-09,VA,51,AUGUSTA,51015,18 to 49 years,Female,Missing,Missing,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Missing,NA,NA
+884,2021-01,NC,37,HALIFAX,37083,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Unknown,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+885,2021-12,NC,37,DAVIE,37059,50 to 64 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+886,2021-08,AL,1,LIMESTONE,1083,Missing,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+887,2020-12,WI,55,PORTAGE,55097,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Unknown,NA,NA
+888,2020-07,AL,1,CHILTON,1021,18 to 49 years,Male,Missing,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+889,2021-12,WA,53,KITSAP,53035,18 to 49 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Missing,Missing,0,NA
+890,2021-01,WY,56,SHERIDAN,56033,18 to 49 years,Male,Unknown,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+891,2021-01,CT,9,WINDHAM,9015,50 to 64 years,Male,Missing,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+892,2020-12,OH,39,WARREN,39165,65+ years,Male,Unknown,Unknown,NA,Clinical evaluation,Missing,Probable Case,Symptomatic,Missing,Missing,No,NA,NA
+893,2021-11,NE,31,LANCASTER,31109,18 to 49 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+894,2021-08,IN,18,MONROE,18105,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+895,2021-09,NY,36,WYOMING,36121,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+896,2021-09,MD,24,FREDERICK,24021,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+897,2020-12,TN,47,SHELBY,47157,18 to 49 years,Male,White,Missing,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,0,NA
+898,2020-04,CO,8,ARAPAHOE,8005,18 to 49 years,Female,Asian,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+899,2021-08,VA,51,HOPEWELL CITY,51670,18 to 49 years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,Yes
+900,2021-01,SC,45,CHARLESTON,45019,18 to 49 years,Male,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+901,2020-11,ID,16,ADA,16001,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,0,NA
+902,2020-08,AR,5,BAXTER,5005,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Unknown,NA,-2,NA
+903,2020-10,WI,55,CALUMET,55015,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+904,2020-10,MI,26,DELTA,26041,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+905,2020-08,KY,21,FAYETTE,21067,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,2,NA
+906,2021-12,OH,39,PUTNAM,39137,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,NA,Yes
+907,2021-01,MN,27,SCOTT,27139,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,0,NA
+908,2021-09,VA,51,STAUNTON CITY,51790,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+909,2021-08,NC,37,UNION,37179,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+910,2021-01,VT,50,ADDISON,50001,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,Yes
+911,2020-11,MI,26,BARRY,26015,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Unknown,NA,NA
+912,2021-11,PA,42,PERRY,42099,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Unknown,Unknown,0,NA
+913,2020-10,OH,39,FULTON,39051,65+ years,Female,White,Non-Hispanic/Latino,0,Multiple,Yes,Laboratory-confirmed case,Symptomatic,Missing,Missing,Unknown,NA,Yes
+914,2020-10,OK,40,POTTAWATOMIE,40125,0 - 17 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,NA,NA
+915,2021-01,NH,33,CARROLL,33003,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,NA,NA
+916,2021-09,NC,37,CRAVEN,37049,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+917,2021-10,PA,42,PIKE,42103,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+918,2021-10,MT,30,YELLOWSTONE,30111,18 to 49 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+919,2020-12,FL,12,LAKE,12069,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+920,2021-01,OH,39,GREENE,39057,65+ years,Male,White,Non-Hispanic/Latino,0,Clinical evaluation,Unknown,Laboratory-confirmed case,Symptomatic,No,No,No,1,Yes
+921,2021-10,CA,6,CALAVERAS,6009,0 - 17 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+922,2021-03,CO,8,GARFIELD,8045,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+923,2021-03,WA,53,ISLAND,53029,0 - 17 years,NA,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,1,Yes
+924,2021-09,TN,47,RHEA,47143,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,0,NA
+925,2020-12,WA,53,THURSTON,53067,50 to 64 years,Unknown,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+926,2021-03,OR,41,TILLAMOOK,41057,50 to 64 years,NA,NA,NA,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+927,2021-04,FL,12,HERNANDO,12053,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+928,2021-10,OH,39,OTTAWA,39123,0 - 17 years,Female,Unknown,Unknown,0,Clinical evaluation,Missing,Probable Case,Symptomatic,Missing,Missing,Unknown,NA,NA
+929,2021-12,NV,32,CARSON CITY,32510,18 to 49 years,Female,NA,NA,0,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,No,1,NA
+930,2021-01,ID,16,MADISON,16065,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,No,Missing,No,0,NA
+931,2020-08,FL,12,ORANGE,12095,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+932,2021-12,MA,25,BARNSTABLE,25001,65+ years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+933,2021-10,MI,26,MIDLAND,26111,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+934,2021-12,NY,36,YATES,36123,65+ years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+935,2021-07,MO,29,MARION,29127,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+936,2021-01,MO,29,WARREN,29219,18 to 49 years,Male,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+937,2021-10,WA,53,GRAYS HARBOR,53027,65+ years,Male,Missing,Unknown,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,Yes
+938,2021-01,CA,6,MONTEREY,6053,65+ years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Missing,Missing,Missing,NA,NA
+939,2020-11,MN,27,OLMSTED,27109,18 to 49 years,Male,Multiple/Other,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+940,2021-08,MO,29,WASHINGTON,29221,18 to 49 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+941,2021-01,OH,39,LORAIN,39093,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+942,2020-11,MO,29,PETTIS,29159,50 to 64 years,Male,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Unknown,Missing,Unknown,0,NA
+943,2021-02,NE,31,DODGE,31053,18 to 49 years,Male,Unknown,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+944,2020-08,WA,53,GRANT,53025,18 to 49 years,Male,White,Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,Yes
+945,2020-09,SC,45,SUMTER,45085,50 to 64 years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+946,2020-07,PA,42,ALLEGHENY,42003,18 to 49 years,Male,Black,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0,NA
+947,2021-10,MI,26,BAY,26017,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,NA,NA,NA
+948,2020-12,KY,21,BULLITT,21029,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Clinical evaluation,Missing,Probable Case,Symptomatic,No,Missing,No,1,NA
+949,2020-12,MT,30,LEWIS AND CLARK,30049,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+950,2021-10,MI,26,MONTCALM,26117,0 - 17 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+951,2021-01,KS,20,SUMNER,20191,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,NA,NA
+952,2021-04,MN,27,BLUE EARTH,27013,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,0,NA
+953,2021-11,IN,18,DECATUR,18031,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Probable Case,Missing,No,Missing,No,0,NA
+954,2020-12,KY,21,MADISON,21151,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Clinical evaluation,Yes,Probable Case,Asymptomatic,No,Missing,No,0,Yes
+955,2021-09,TN,47,OBION,47131,18 to 49 years,Female,White,Non-Hispanic/Latino,0,Missing,Yes,Probable Case,Symptomatic,No,Missing,No,0,NA
+956,2021-11,OH,39,SANDUSKY,39143,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+957,2021-11,NY,36,ALLEGANY,36003,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+958,2021-11,TX,48,EL PASO,48141,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+959,2021-03,FL,12,MONROE,12087,50 to 64 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+960,2020-12,KY,21,LINCOLN,21137,65+ years,Female,White,Non-Hispanic/Latino,NA,Clinical evaluation,Yes,Laboratory-confirmed case,Symptomatic,No,Missing,NA,0,Yes
+961,2020-12,TN,47,SULLIVAN,47163,65+ years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Yes,Missing,Yes,2,NA
+962,2021-01,NY,36,HERKIMER,36043,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,0,NA
+963,2020-12,WA,53,LEWIS,53041,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,Yes
+964,2020-12,WA,53,WALLA WALLA,53071,18 to 49 years,Male,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,0,NA
+965,2020-09,TX,48,POTTER,48375,50 to 64 years,Male,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,NA,NA
+966,2020-07,AR,5,POINSETT,5111,65+ years,Male,White,Non-Hispanic/Latino,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,NA,0,Yes
+967,2021-05,OH,39,CRAWFORD,39033,NA,NA,NA,NA,0,Contact tracing of case patient,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0,Yes
+968,2020-03,MI,26,GRAND TRAVERSE,26055,NA,NA,NA,NA,0,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,Missing,No,NA,Yes
+969,2020-08,IN,18,JASPER,18073,0 - 17 years,NA,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+970,2020-12,AL,1,FRANKLIN,1059,Missing,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+971,2021-02,OK,40,MCCURTAIN,40089,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Unknown,Unknown,Missing,NA,NA,NA
+972,2021-07,IA,19,MUSCATINE,19139,0 - 17 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+973,2020-12,NM,35,SANDOVAL,35043,0 - 17 years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+974,2021-12,ME,23,AROOSTOOK,23003,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,No,NA,NA
+975,2021-06,NJ,34,CAMDEN,34007,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+976,2021-12,OH,39,CUYAHOGA,39035,18 to 49 years,Female,NA,NA,NA,Missing,Missing,Probable Case,Missing,Missing,Missing,Unknown,0,NA
+977,2020-11,NC,37,IREDELL,37097,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,No,0,NA
+978,2021-03,NE,31,SAUNDERS,31155,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+979,2020-11,OK,40,SEMINOLE,40133,18 to 49 years,Female,Unknown,Unknown,NA,Missing,Missing,Probable Case,Unknown,No,Missing,No,NA,NA
+980,2021-01,GA,13,STEPHENS,13257,18 to 49 years,Female,Unknown,Missing,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,Missing,NA,NA
+981,2021-11,NY,36,COLUMBIA,36021,65+ years,Female,Unknown,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+982,2021-08,CA,6,DEL NORTE,6015,65+ years,Female,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,Missing,NA,NA
+983,2021-07,PA,42,LEHIGH,42077,0 - 17 years,Male,NA,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1,NA
+984,2021-03,NJ,34,MORRIS,34027,0 - 17 years,Male,NA,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,No,NA,NA
+985,2020-11,IL,17,WHITESIDE,17195,18 to 49 years,Male,Unknown,Unknown,0,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,Missing,NA,NA
+986,2021-05,OR,41,JACKSON,41029,18 to 49 years,Female,Multiple/Other,NA,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+987,2021-10,OH,39,ASHTABULA,39007,0 - 17 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,0,NA
+988,2021-08,IN,18,FLOYD,18043,50 to 64 years,Female,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+989,2021-08,IN,18,WHITE,18181,65+ years,Female,White,NA,NA,Missing,Missing,Laboratory-confirmed case,Missing,No,Missing,No,0,NA
+990,2021-03,OH,39,HIGHLAND,39071,18 to 49 years,Male,White,Unknown,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Unknown,NA,NA
+991,2021-04,OH,39,SHELBY,39149,65+ years,Male,White,NA,0,Clinical evaluation,Missing,Probable Case,Symptomatic,No,No,NA,1,NA
+992,2021-12,NJ,34,BURLINGTON,34005,18 to 49 years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Probable Case,Symptomatic,No,Missing,No,NA,NA
+993,2020-06,SC,45,WILLIAMSBURG,45089,50 to 64 years,Female,Black,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+994,2021-11,WI,55,DANE,55025,0 - 17 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,NA,NA
+995,2021-09,FL,12,COLUMBIA,12023,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+996,2021-09,FL,12,NASSAU,12089,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+997,2021-10,FL,12,SUMTER,12119,18 to 49 years,Female,White,Non-Hispanic/Latino,NA,Missing,Missing,Laboratory-confirmed case,Missing,Missing,Missing,Missing,NA,NA
+998,2021-11,PA,42,ARMSTRONG,42005,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,0,NA
+999,2021-03,MN,27,FREEBORN,27047,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Missing,Missing,No,1,Yes
+1000,2020-11,OR,41,WASHINGTON,41067,50 to 64 years,Female,White,Non-Hispanic/Latino,0,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Missing,No,NA,NA
