@@ -1,65 +1,76 @@
-# Define server logic to summarize and view selected dataset ----
-server <- function(input, output) {
+## COVOD Data Discovery
+
+library(shiny)
+library(datasets)
+library(dplyr)
+library(formattable)
+library(DT)
+library(ggplot2)
+
+options(encoding = "UTF-8") #required to avoid: warning in readLines(con) incomplete final line
+
+#need to consider http://shiny.rstudio.com/articles/datatables.html
+options("scipen"=100)
+options("scipen"=100)
+covid_case_surv_co <- read.csv("./shiny/covid_case_surv_co.csv", header = TRUE)
+covid_case_surv_ak <- read.csv("./shiny/covid_case_surv_ak.csv", header = TRUE)
+covid_case_surv_ga <- read.csv("./shiny/covid_case_surv_ga.csv", header = TRUE)
+covid_case_surv_fl <- read.csv("./shiny/covid_case_surv_fl.csv", header = TRUE)
+covid_case_surv_mo <- read.csv("./shiny/covid_case_surv_mo.csv", header = TRUE)
+covid_case_surv_ny <- read.csv("./shiny/covid_case_surv_ny.csv", header = TRUE)
+
+# Define server logic required to summarize and view the 
+# selected dataset
+shinyServer(function(input, output) {
   
-  # Return the requested dataset ----
-  # By declaring datasetInput as a reactive expression we ensure
-  # that:
-  #
-  # 1. It is only called when the inputs it depends on changes
-  # 2. The computation and result are shared by all the callers,
-  #    i.e. it only executes a single time
+  observe_helpers(session = shiny::getDefaultReactiveDomain(),
+                  help_dir = "helpfiles", withMathJax = FALSE)
+  
+  # Return the requested dataset
+  
   datasetInput <- reactive({
     switch(input$dataset,
-           "cdc_disease_tracking" = cdc_disease_tracking,
-           "covid_total_cases" = covid_total_cases,
-           "qobj" = qobj)
+           "Alaska COVID Cases" = covid_case_surv_ak,
+           "Colorado COVID Cases" = covid_case_surv_co,
+           "Georgia COVID Cases" = covid_case_surv_ga,
+           "Florida COVID Cases" = covid_case_surv_fl,
+           "Missouri COVID Cases" = covid_case_surv_mo,
+           "New York COVID Cases" = covid_case_surv_ny
+    )
   })
   
-  # Create caption ----
-  # The output$caption is computed based on a reactive expression
-  # that returns input$caption. When the user changes the
-  # "caption" field:
-  #
-  # 1. This function is automatically called to recompute the output
-  # 2. New caption is pushed back to the browser for re-display
-  #
-  # Note that because the data-oriented reactive expressions
-  # below do not depend on input$caption, those expressions are
-  # NOT called when input$caption changes
-  output$caption <- renderText({
-    input$caption
+  
+  varnameInput<-reactive({
+   if(input$varname=="status_num"){
+     switch(input$varname,
+            "Variable Name" = status_num)
+   } else{}
+     switch(input$varname,
+            "Variable Name" = status_character)
   })
   
-  # Generate a summary of the dataset ----
-  # The output$summary depends on the datasetInput reactive
-  # expression, so will be re-executed whenever the input$dataset
-  # changes
-  output$summary <- renderPrint({
-    dataset <- datasetInput()
-    summary(dataset)
+  output$view <- DT::renderDataTable({
+    DT::datatable(datasetInput(), options=list(searching=FALSE, paging=FALSE, rownames=FALSE))
   })
   
-  # Show the first "n" observations ----
-  # The output$view depends on both the databaseInput reactive
-  # expression and input$obs, so it will be re-executed whenever
-  # input$dataset or input$obs is changed
-  output$view <- renderTable({
-    head(datasetInput(), n = input$obs)
+  library(tidyverse)
+  library(zoo)
+  
+  output$dataplot <- renderPlot(height=500,{
+    par(mar=c(8.3, 4.1, 2, 1))  
+    ggplot(datasetInput(), aes(x = (as.factor(as.yearmon(case_month))))) +
+    geom_bar(stat = "count", fill="steelblue") +
+    theme(axis.text.x = element_text(angle = -90, hjust = 0)) +
+    labs(x= "Month",
+         y = "Number of Cases",
+         title = "COVID-19 Cases from January 2020 & December 2021")
   })
   
-  output$plot1 <- renderPlot({
-    dataset <- datasetInput()
-    d <- dataset
-    plot(d[,1:6,])
-  })
-  
-#  output$error <- renderText({
-    "LOG: The Hedabenfalk dataset is a vector with -inf and inf values. 
-    Theoretically, q-values are bound by (0, 1), so the tables 
-    allows -inf and inf but these cannot be calculated. A p-value 
-    is an area in the tail of a distribution that tells you the 
-    odds of a result happening by chance. A Q-value is a p-value 
-    that has been adjusted for the False Discovery Rate(FDR). 
-    The False Discovery Rate is the proportion of false positives 
-    you can expect to get from a test.})"
-}
+  #output$dataplot <- renderPlot(height=500,{
+  #  par(mar=c(8.3, 4.1, 2, 1))
+  #  ggplot(datasetInput(), aes(format(case_month, "%Y-%m"))) + geom_bar(stat="count")  
+      #labs(x = "Month", y = "Count", main = "COVID-19 Cases from January 2020 & December 2021")
+      #theme(legend.position = "top",  
+      #      main = "COVID-19 Cases from January 2020 & December 2021",
+      #      ylab="Covid Cases %",col="#7FFFD4", border = "#7FFFD4", las=2)
+})
