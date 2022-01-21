@@ -65,12 +65,5 @@ shinyServer(function(input, output) {
          y = "Number of Cases",
          title = "COVID-19 Cases from January 2020 & December 2021")
   })
-  
-  #output$dataplot <- renderPlot(height=500,{
-  #  par(mar=c(8.3, 4.1, 2, 1))
-  #  ggplot(datasetInput(), aes(format(case_month, "%Y-%m"))) + geom_bar(stat="count")  
-      #labs(x = "Month", y = "Count", main = "COVID-19 Cases from January 2020 & December 2021")
-      #theme(legend.position = "top",  
-      #      main = "COVID-19 Cases from January 2020 & December 2021",
-      #      ylab="Covid Cases %",col="#7FFFD4", border = "#7FFFD4", las=2)
+
 })
