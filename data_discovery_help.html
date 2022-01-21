@@ -1,0 +1,428 @@
+<h4>data_discovery_help</h4>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Jeffrey Strickland" />
+
+
+<title>Data Discovery Documentation</title>
+
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+<style type="text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Data Discovery Documentation</h1>
+<h4 class="author">Jeffrey Strickland</h4>
+<h4 class="date">1/19/2022</h4>
+
+</div>
+
+
+<p>The Data Discovery app is comprised of easy to use user input (ui) with two basic entries: 1. Choosing a datasetInput 2. Selecting the number of obseration you want to View</p>
+<p>There are currently to datasets, both are Centers of Disease Control (CDC) data products: 1. CDC Weekly Disease tracking for January 2020 to January 2022. 2. CDC COVID-19 is tracking data for Total Cases dein January 2020 to Jannuary 2022.</p>
+<p>Tabes can be added in the header of the source code, before the ui. Selecting a database results in a summary table, n-observations of the data set, and a plot of the first six variables.</p>
+<p>The Data Summary shows: 1. As-of-date of the data 2. Length of the dataset (number or rows) 3. The class of the data field (character, numeric, etc.) 4. Data descriptive statistics a. Minimum value b. 1st Quartile c. Median value d. mean value e. 3rd Quartile f. Maximum value</p>
+<p>Below the Data Summary is the n-rows of data, where n can be changed with the input in the ui, “Number of observations to view:”</p>
+<p>Below the dataset view is a plot of the first six variables of the dataset. THe plot changes for each database selected.</p>
+<p>The datasets were imported from the following sites as CSV or JSON file formats: * “<a href="https://data.cdc.gov/api/views/muzy-jte6/rows.csv?accessType=DOWNLOAD&amp;bom=true&amp;format=true" class="uri">https://data.cdc.gov/api/views/muzy-jte6/rows.csv?accessType=DOWNLOAD&amp;bom=true&amp;format=true</a>” * “<a href="https://data.cdc.gov/resource/n8mc-b4w4.json" class="uri">https://data.cdc.gov/resource/n8mc-b4w4.json</a>”</p>
+<p>These files can be imported in RStudio using, for example:</p>
+<pre class="r"><code>url = &quot;https://data.cdc.gov/resource/n8mc-b4w4.json&quot;
+covid &lt;- jsonlite::fromJSON(url)</code></pre>
+<p>Future versions of the app will allow datasets to be loaded in the user interface and selecting variables for plotting with be available also.</p>
+<p>The source code for the data (ui and server) can be accessed at <a href="https://github.com/stricje1/ddp4" class="uri">https://github.com/stricje1/ddp4</a></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
+=======
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Jeffrey Strickland" />
+
+
+<title>Data Discovery Documentation</title>
+
+
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+<style type="text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Data Discovery Documentation</h1>
+<h4 class="author">Jeffrey Strickland</h4>
+<h4 class="date">1/19/2022</h4>
+
+</div>
+
+
+<p>The Data Discovery app is comprised of easy to use user input (ui) with two basic entries: 1. Choosing a datasetInput 2. Selecting the number of obseration you want to View</p>
+<p>There are currently to datasets, both are Centers of Disease Control (CDC) data products: 1. CDC Weekly Disease tracking for January 2020 to January 2022. 2. CDC COVID-19 is tracking data for Total Cases dein January 2020 to Jannuary 2022.</p>
+<p>Tabes can be added in the header of the source code, before the ui. Selecting a database results in a summary table, n-observations of the data set, and a plot of the first six variables.</p>
+<p>The Data Summary shows: 1. As-of-date of the data 2. Length of the dataset (number or rows) 3. The class of the data field (character, numeric, etc.) 4. Data descriptive statistics a. Minimum value b. 1st Quartile c. Median value d. mean value e. 3rd Quartile f. Maximum value</p>
+<p>Below the Data Summary is the n-rows of data, where n can be changed with the input in the ui, “Number of observations to view:”</p>
+<p>Below the dataset view is a plot of the first six variables of the dataset. THe plot changes for each database selected.</p>
+<p>The datasets were imported from the following sites as CSV or JSON file formats: * “<a href="https://data.cdc.gov/api/views/muzy-jte6/rows.csv?accessType=DOWNLOAD&amp;bom=true&amp;format=true" class="uri">https://data.cdc.gov/api/views/muzy-jte6/rows.csv?accessType=DOWNLOAD&amp;bom=true&amp;format=true</a>” * “<a href="https://data.cdc.gov/resource/n8mc-b4w4.json" class="uri">https://data.cdc.gov/resource/n8mc-b4w4.json</a>”</p>
+<p>These files can be imported in RStudio using, for example:</p>
+<pre class="r"><code>url = &quot;https://data.cdc.gov/resource/n8mc-b4w4.json&quot;
+covid &lt;- jsonlite::fromJSON(url)</code></pre>
+<p>Future versions of the app will allow datasets to be loaded in the user interface and selecting variables for plotting with be available also.</p>
+<p>The source code for the data (ui and server) can be accessed at <a href="https://github.com/stricje1/ddp4" class="uri">https://github.com/stricje1/ddp4</a></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
